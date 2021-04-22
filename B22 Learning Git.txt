@@ -1,10 +1,10 @@
 B22 Learning Git
 
 Yay we made first commint
-commint is almost like taking a picture of the changes
+commint is almost like taking 
+a picture of the changes
 at certain moment compared 
 to previous moment
 
 iit contains the chanes you made 
 and the authour of the changes
-
