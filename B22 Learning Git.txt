@@ -6,5 +6,5 @@ a picture of the changes
 at certain moment compared 
 to previous moment
 
-iit contains the chanes you made 
+it contains the chanes you made 
 and the authour of the changes
